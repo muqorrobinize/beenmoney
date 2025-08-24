@@ -64,7 +64,4 @@ Penting: Karena data disimpan di browser, membersihkan cache atau data situs unt
 ⭐ Suka dengan Aplikasi Ini?
 Jika Anda merasa aplikasi ini bermanfaat, mohon pertimbangkan untuk memberikan bintang (star) ⭐ pada repositori GitHub proyek ini. Dukungan Anda sangat berarti dan membantu pengembang untuk terus berkreasi. Terima kasih!
 
-🙏 Kredit
-Instagram: @beenspace
-
-GitHub: @muqorrobinize
+🙏 Kredit: Instagram: @beenspace GitHub: @muqorrobinize
