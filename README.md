@@ -93,6 +93,7 @@ i. Semua perubahan yang Anda buat akan otomatis tersimpan di memori browser.
 Jika Anda merasa aplikasi ini bermanfaat, mohon pertimbangkan untuk memberikan bintang (star) ⭐ pada repositori GitHub proyek ini. Dukungan Anda sangat berarti dan membantu pengembang untuk terus berkreasi. Terima kasih!
 
 🙏 Kredit
+
 Instagram: @beenspace
 
 GitHub: @muqorrobinize
