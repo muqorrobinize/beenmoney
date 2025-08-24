@@ -1,5 +1,9 @@
-# beenmoney
-Been's Money - Aplikasi Budgeting Simpel &amp; Offline  Sebuah aplikasi web budgeting modern yang berjalan sepenuhnya di browser Anda. Lacak pemasukan dan pengeluaran dengan mudah tanpa perlu instalasi. Fitur lengkap: kustomisasi kategori &amp; tema, ekspor ke CSV/PDF, dan 100% privat dengan penyimpanan lokal. Cukup unduh file HTML-nya dan mulai gunakan!
+Been's Money - Simple Budgeting App
+<p align="center">
+<strong>Sebuah aplikasi budgeting web yang simpel, modern, dan sepenuhnya berjalan di browser Anda.</strong>
+<br>
+<em>Lacak pemasukan dan pengeluaran dengan mudah tanpa perlu instalasi atau akun online.</em>
+</p>
 
 🚀 Cara Menggunakan
 Aplikasi ini 100% gratis dan portabel. Cukup satu file untuk semuanya.
